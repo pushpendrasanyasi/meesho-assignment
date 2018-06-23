@@ -4,6 +4,7 @@ Only the code/stubs for the main service is included.
 ## Prerequisite
 1. JDK
 2. Apache Kafka libraries
+3. Google gson
 ### How do I get set up? 
 try the below commands in the project root directory.
 ```
